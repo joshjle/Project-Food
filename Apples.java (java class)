@@ -45,8 +45,8 @@ public class Apples extends ActionBarActivity implements OnClickListener {
         }
     }
 
-    //this came with it idk if it really does anything.. lol
-
+    
+    // Inititalizes the top bar menu in android applications
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
